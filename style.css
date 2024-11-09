@@ -1,0 +1,36 @@
+header {
+    background-color: chocolate;
+    height: 200px;
+}
+.menu {
+    background-color: chocolate;
+    float: left;
+}
+.t1 {
+    color: chocolate;
+}
+aside {
+    float: left;
+}
+main {
+    margin-top: 200px;
+}
+.t2{
+    margin-left: 15%;
+}
+.t3 {
+    margin-top: 0px;
+}
+
+p {
+    font-size: x-large;
+}
+h2 {
+    font-size: xx-large;
+}
+.f1{
+    font-size: x-large;
+}
+.i1 {
+    margin-left: 400px;
+}
