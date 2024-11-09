@@ -4,7 +4,6 @@ header {
 }
 .menu {
     background-color: chocolate;
-    float: left;
 }
 .t1 {
     color: chocolate;
@@ -30,7 +29,4 @@ h2 {
 }
 .f1{
     font-size: x-large;
-}
-.i1 {
-    margin-left: 400px;
 }
